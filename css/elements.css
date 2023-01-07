@@ -1,0 +1,11 @@
+.squares{
+    background-color: blue;
+    height: 5vh;
+    width: 5vh;
+}
+body{
+    background-color: #000000;
+}
+.screen{
+    background-color: #ffffff;
+}
